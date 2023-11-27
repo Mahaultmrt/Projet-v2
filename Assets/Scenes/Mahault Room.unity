@@ -236,7 +236,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &225899538
 PrefabInstance:
@@ -2206,7 +2206,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b58f08676c335e544a7c821e3d2de844, type: 2}
+  - {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2883,6 +2883,75 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0d96f7bd47e015244b495190ca7e753d, type: 3}
+--- !u!1001 &1275427361
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3975090072341654013, guid: 87601556a58cb8747852f5716be8fd41,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975090072341654013, guid: 87601556a58cb8747852f5716be8fd41,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.8051494
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975090072341654013, guid: 87601556a58cb8747852f5716be8fd41,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.73988765
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975090072341654013, guid: 87601556a58cb8747852f5716be8fd41,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.0423756
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975090072341654013, guid: 87601556a58cb8747852f5716be8fd41,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975090072341654013, guid: 87601556a58cb8747852f5716be8fd41,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975090072341654013, guid: 87601556a58cb8747852f5716be8fd41,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975090072341654013, guid: 87601556a58cb8747852f5716be8fd41,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975090072341654013, guid: 87601556a58cb8747852f5716be8fd41,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975090072341654013, guid: 87601556a58cb8747852f5716be8fd41,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975090072341654013, guid: 87601556a58cb8747852f5716be8fd41,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4350912581056820039, guid: 87601556a58cb8747852f5716be8fd41,
+        type: 3}
+      propertyPath: m_Name
+      value: Food_Apple_Green
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87601556a58cb8747852f5716be8fd41, type: 3}
 --- !u!1001 &1280241713
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3069,7 +3138,7 @@ Transform:
   m_Children:
   - {fileID: 650672842}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1353983472
 PrefabInstance:
@@ -3253,5 +3322,5 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
